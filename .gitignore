@@ -1,0 +1,19 @@
+# data & large files
+*.csv
+*.parquet
+*.feather
+*.npy
+*.npz
+*.pkl
+data/
+raw/
+
+# secrets
+.env
+*.token
+
+# python caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
